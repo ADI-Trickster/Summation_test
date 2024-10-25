@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aanaya/Downloads/proj3-canvaslist-starter/Summation_test",
+      "program": "/Users/aanaya/Downloads/proj3-canvaslist-starter/Summation_test/build/Debug/outDebug"
+    }
+  ]
+}
